@@ -1,5 +1,5 @@
 # Cooking AI Agent
-Welcome to the Cooking AI Agent, a Python-based interactive cooking assistant designed to guide you through preparing delicious savory dishes and desserts! This script offers a collection of 100 recipes—50 savory dishes and 50 desserts—complete with ingredients and step-by-step instructions, narrated aloud using text-to-speech functionality.
+Welcome to the Cooking AI Agent, a Python-based interactive cooking assistant designed to guide you through preparing delicious, savory dishes and desserts! This script offers a collection of 100 recipes, 50 savory dishes, and 50 desserts, complete with ingredients and step-by-step instructions, narrated aloud using text-to-speech functionality.
 
 ### Overview
 - The Cooking AI Agent provides a user-friendly interface to:
